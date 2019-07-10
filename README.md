@@ -7,7 +7,7 @@ crack massal dengan password random
 <li>crack akun dari grup fb lain</li>
 </ul>
 
-<ol>Command</ol>
+<ol>Command
 <li><ul>Akun teman</li>
   <li>mine: crack akun dari daftar temanmu</li>
   <li>other: crack akun dari daftar teman orang lain, dibutuhkan id</li>
