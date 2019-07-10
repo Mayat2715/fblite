@@ -25,9 +25,11 @@ crack massal dengan password random
 </ul></ol>
 
 <p>How to install</p>
-```chmod +x install.sh
+``
+chmod +x install.sh
 bash install.sh
-python main.py ```
+python main.py
+```
 
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
 
