@@ -14,9 +14,9 @@ FITUR
   <li>other: crack akun dari daftar teman orang lain, dibutuhkan id</li>
 </ul>
 <li>Dari grup</li><ul>
-  <li>all: Ambil id dari semua grup yang ada</li>
-  <li>one: Ambil id dari grup terpilih</li>
-  <li>id: Ambil id dari grup lain, dibutuhkan id grup</li>
+  <li>mine<ul><li>all</li><li>one</li></ul></li>
+  <li>other<ul><li>all</li><li>one</li></ul></li>
+  <li>id</li>
 </ul>
 <li>Logout</li>
 <li>apus header</li>
