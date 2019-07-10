@@ -25,11 +25,11 @@ crack massal dengan password random
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
 </ul></ol>
 
-Some basic Git commands are:
+How to install:
 ```
-git status
-git add
-git commit
+chmod +x install.sh
+bash install.sh
+python main.py
 ```
 
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
