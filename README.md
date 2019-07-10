@@ -28,4 +28,4 @@ crack massal dengan password random
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
 </ul>
 
-<h1>[!]Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h1>
+<h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
