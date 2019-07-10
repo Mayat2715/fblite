@@ -17,12 +17,8 @@ crack massal dengan password random
   <li>one: Ambil id dari grup terpilih</li>
   <li>id: Ambil id dari grup lain, dibutuhkan id grup</li>
 </ul>
-<li>Logout</li><ul>
-  <li>Apus token</li>
-</ul>
-<li>apus header</li><ul>
-  <li>Sesuai namanya</li>
-</ul>
+<li>Logout</li>
+<li>apus header</li>
 <li>Contact me</li><ul>
   <li><a href="https://wa.me/62895640466851">WA</a></li>
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
