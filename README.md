@@ -25,3 +25,5 @@ crack massal dengan password random
 </ul></ol>
 
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
+
+<b>Jika mempunyai password yang rentan keamanannya, saya harap Anda bisa memberitahunya. Lumayan buat ditambahin ke wordlist</b>
