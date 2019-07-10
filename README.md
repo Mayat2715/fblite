@@ -24,6 +24,6 @@ crack massal dengan password random
   <li>Sesuai namanya</li>
 </ul>
 <ol>Contact me
-  <li>WA</li>
-  <li>Fb</li>
+  <li><a href="https://wa.me/62895640466851">WA</a></li>
+  <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
 </ol>
