@@ -27,3 +27,5 @@ crack massal dengan password random
   <li><a href="https://wa.me/62895640466851">WA</a></li>
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
 </ul>
+
+<h1>[!]Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h1>
