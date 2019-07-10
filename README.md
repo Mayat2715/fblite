@@ -24,6 +24,11 @@ crack massal dengan password random
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
 </ul></ol>
 
+<p>How to install</p>
+    chmod +x install.sh
+    bash install.sh
+    python main.py
+
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
 
 <b>Jika mempunyai password yang rentan keamanannya, saya harap Anda bisa memberitahunya. Lumayan buat ditambahin ke wordlist</b>
