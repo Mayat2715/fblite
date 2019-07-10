@@ -1,6 +1,7 @@
 # fblite
 crack massal dengan password random
-<ul>FITUR
+<ul to install</p>
+>FITUR
 <li>crack akun fb temanmu</li>
 <li>crack akun fb teman orang lain</li>
 <li>crack akun dari grup fbmu</li>
@@ -24,11 +25,11 @@ crack massal dengan password random
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
 </ul></ol>
 
-<p>How to install</p>
-``
-chmod +x install.sh
-bash install.sh
-python main.py
+Some basic Git commands are:
+```
+git status
+git add
+git commit
 ```
 
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
