@@ -8,22 +8,22 @@ crack massal dengan password random
 </ul>
 
 <ol>Command
-<li><ul>Akun teman</li>
+<li>Akun teman</li><ul>
   <li>mine: crack akun dari daftar temanmu</li>
   <li>other: crack akun dari daftar teman orang lain, dibutuhkan id</li>
 </ul>
-<li><ul>Dari grup</li>
+<li>Dari grup</li><ul>
   <li>all: Ambil id dari semua grup yang ada</li>
   <li>one: Ambil id dari grup terpilih</li>
   <li>id: Ambil id dari grup lain, dibutuhkan id grup</li>
 </ul>
-<li><ul>Logout</li>
+<li>Logout</li><ul>
   <li>Apus token</li>
 </ul>
-<li><ul>apus header</li>
+<li>apus header</li><ul>
   <li>Sesuai namanya</li>
 </ul>
-<li><ul>Contact me</li>
+<li>Contact me</li><ul>
   <li><a href="https://wa.me/62895640466851">WA</a></li>
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
 </ul></ol>
