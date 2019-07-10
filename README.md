@@ -7,25 +7,25 @@ crack massal dengan password random
 <li>crack akun dari grup fb lain</li>
 </ul>
 
-<p>Command</p>
-<ul>Akun teman
+<ol>Command</ol>
+<li><ul>Akun teman</li>
   <li>mine: crack akun dari daftar temanmu</li>
   <li>other: crack akun dari daftar teman orang lain, dibutuhkan id</li>
 </ul>
-<ul>Dari grup
+<li><ul>Dari grup</li>
   <li>all: Ambil id dari semua grup yang ada</li>
   <li>one: Ambil id dari grup terpilih</li>
   <li>id: Ambil id dari grup lain, dibutuhkan id grup</li>
 </ul>
-<ul>Logout
+<li><ul>Logout</li>
   <li>Apus token</li>
 </ul>
-<ul>apus header
+<li><ul>apus header</li>
   <li>Sesuai namanya</li>
 </ul>
-<ul>Contact me
+<li><ul>Contact me</li>
   <li><a href="https://wa.me/62895640466851">WA</a></li>
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
-</ul>
+</ul></ol>
 
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
