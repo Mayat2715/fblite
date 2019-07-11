@@ -34,4 +34,4 @@ python main.py
 
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
 
-<b>Jika mempunyai password yang rentan keamanannya, saya harap Anda bisa memberitahunya. Lumayan buat ditambahin ke wordlist</b>
+<b>Jika ada yang error mohon dikasih tau</b>
