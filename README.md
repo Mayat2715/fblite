@@ -32,7 +32,9 @@ bash install.sh
 python main.py
 ```
 
-Harus ada <a href='https://google.com/search?q=user+agent+checker'>User agent</a>
+<a href='https://google.com/search?q=user+agent+checker'>User agent</a> sangat penting
+
+<a href='https://youtu.be/merW22uixKo'>Youtube</a>
 
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
 
