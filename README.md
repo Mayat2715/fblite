@@ -32,6 +32,8 @@ bash install.sh
 python main.py
 ```
 
+Harus ada <a href='https://google.com/search?q=user+agent+checker'>User agent</a>
+
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
 
 <b>Jika ada yang error mohon dikasih tau</b>
