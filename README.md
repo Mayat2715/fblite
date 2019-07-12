@@ -3,6 +3,8 @@ crack massal dengan password random
 
 list:
 > [FITUR](#FITUR)
+> [COMMAND](#COMMAND)
+> [How to install](#How to install)
 
 <ul>
 # FITUR
