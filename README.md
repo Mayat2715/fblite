@@ -2,13 +2,13 @@
 crack massal dengan password random
 
 list:
-> [FITUR](#FITUR)
+> [Fitur](#fitur)
 
-> [COMMAND](#COMMAND)
+> [Command](#command)
 
-> [How to install](#How-to-install)
+> [How to install](#how-to-install)
 
-# FITUR
+# Fitur
 - crack akun fb temanmu
 
 - crack akun fb teman orang lain
@@ -18,7 +18,7 @@ list:
 - crack akun dari grup fb lain
 
 
-# COMMAND
+# Command
 1. Akun teman
   - mine: crack akun dari daftar temanmu
   
