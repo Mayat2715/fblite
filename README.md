@@ -6,7 +6,7 @@ list:
 
 > [COMMAND](#COMMAND)
 
-> [How to install](#How to install)
+> [How to install](#How+to+install)
 
 <ul>
 # FITUR
@@ -33,7 +33,7 @@ list:
   <li><a href="https://fb.me/mayat.mayat.58555">Fb</a></li>
 </ul></ol>
 
-How to install:
+# How to install
 ```
 git clone https://github.com/Mayat2715/fblite
 cd fblite
