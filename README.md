@@ -6,15 +6,17 @@ list:
 
 > [COMMAND](#COMMAND)
 
-> [How to install](#How+to+install)
+> [How to install](#How-to-install)
 
-<ul>
 # FITUR
-<li>crack akun fb temanmu</li>
-<li>crack akun fb teman orang lain</li>
-<li>crack akun dari grup fbmu</li>
-<li>crack akun dari grup fb lain</li>
-</ul>
+- crack akun fb temanmu
+
+- crack akun fb teman orang lain
+
+- crack akun dari grup fbmu
+  
+- crack akun dari grup fb lain
+
 
 <ol>Command
 <li>Akun teman</li><ul>
