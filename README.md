@@ -53,3 +53,4 @@ python main.py
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
 
 <b>Jika ada yang error mohon dikasih tau</b>
+
