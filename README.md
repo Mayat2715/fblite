@@ -20,9 +20,8 @@ list:
 
 # Command
 1. Akun teman
-  - mine: crack akun dari daftar temanmu
-  
-  - other: crack akun dari daftar teman orang lain, dibutuhkan id
+  - mine
+  - other
 
 2. Dari grup
   - mine
@@ -37,9 +36,9 @@ list:
   - apus header
   
 4. Contact me
-   - [WA](https://wa.me/62895640466851)
+ - [WA](https://wa.me/62895640466851)
     
-   - [FB](https://fb.me/mayat.mayat.58555)
+ - [FB](https://fb.me/mayat.mayat.58555)
     
 
 
