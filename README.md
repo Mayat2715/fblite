@@ -37,6 +37,7 @@ list:
 ```
 git clone https://github.com/Mayat2715/fblite
 cd fblite
+
 chmod +x install.sh
 bash install.sh
 python main.py
