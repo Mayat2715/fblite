@@ -38,6 +38,8 @@ python main.py
 
 <a href='https://youtu.be/merW22uixKo'>Youtube</a>
 
+[Facebook api](https://developers.facebook.com/docs/graph-api)
+
 <h2>Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya</h2>
 
 <b>Jika ada yang error mohon dikasih tau</b>
