@@ -26,9 +26,7 @@ list:
 
 2. Dari grup
   - mine
-  
     - all
-    
     - one
   - other
     - all
@@ -38,10 +36,10 @@ list:
 3. Logout
   - apus header
   
-  - Contact me
-    - [WA](https://wa.me/62895640466851)
+4. Contact me
+   - [WA](https://wa.me/62895640466851)
     
-    - [FB](https://fb.me/mayat.mayat.58555)
+   - [FB](https://fb.me/mayat.mayat.58555)
     
 
 
