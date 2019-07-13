@@ -55,6 +55,7 @@ bash install.sh
 python main.py
 ```
 
+Harap jalankan script `update.py` dengan mengetik `python update.py` untuk memeriksa apakah script sudah update atau belum
 
 [User agent](https://google.com/search?q=user+agent+checker) sangat penting
 
