@@ -52,6 +52,8 @@ bash install.sh
 python main.py
 ```
 
+Versi: 2.2
+
 [User agent](https://google.com/search?q=user+agent+checker) sangat penting
 
 [YouTube](https://youtu.be/merW22uixKo)
