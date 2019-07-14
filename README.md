@@ -11,6 +11,8 @@ list:
 
 > [How to install](#how-to-install)
 
+> [Penjelasan](#penjelasan)
+
 # Fitur
 - crack akun fb temanmu
 
@@ -56,6 +58,16 @@ python main.py
 ```
 
 Harap jalankan script `update.py` dengan mengetik `python update.py` untuk memeriksa apakah script sudah update atau belum
+
+# Penjelasan
+mine: mengambil data yang diperlukan dengan akun sendiri
+
+other: sama seperti mine tapi bedanya other menggunakan id fb/id grup
+
+all: mengambil id anggota di semua grup yang ada
+
+one: sama seperti all tapi bedanya one hanya mengambil grup yang terpilih
+
 
 [User agent](https://google.com/search?q=user+agent+checker) sangat penting
 
