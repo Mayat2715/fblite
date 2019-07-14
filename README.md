@@ -82,7 +82,7 @@ one: sama seperti all tapi bedanya one hanya mengambil grup yang terpilih
 
 [Facebook api](https://developers.facebook.com/docs/graph-api)
 
-## Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya
+**Saya tidak bertanggung jika terjadi masalah dengan pengguna aslinya**
 
 **Jika ada yang error mohon dikasih tau**
 
