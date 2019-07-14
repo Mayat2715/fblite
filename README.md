@@ -13,6 +13,8 @@ list:
 
 > [Penjelasan](#penjelasan)
 
+> [Tambahan](#tambahan)
+
 # Fitur
 - crack akun fb temanmu
 
@@ -68,6 +70,11 @@ all: mengambil id anggota di semua grup yang ada
 
 one: sama seperti all tapi bedanya one hanya mengambil grup yang terpilih
 
+# Tambahan
+
+[mechanize](https://pypi.org/project/mechanize/0.4.2/)
+
+[requests](https://pypi.org/project/requests/2.22.0/)
 
 [User agent](https://google.com/search?q=user+agent+checker) sangat penting
 
