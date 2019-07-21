@@ -4,6 +4,8 @@ versi: 2.23
 
 crack massal dengan password random
 
+Kalau ada error, hapus dir fblite lalu [install ulang](#how-to-install)
+
 list:
 > [Fitur](#fitur)
 
