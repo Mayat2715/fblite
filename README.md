@@ -1,6 +1,6 @@
 # fblite
 
-versi: 2.23
+versi: 2.24
 
 crack massal dengan password random
 
