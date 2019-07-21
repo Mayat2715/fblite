@@ -11,7 +11,7 @@ if [ $(uname -o) = 'Android' ];then
 	else
 		cp -rf "$put/mechanize*" $pat
 	fi
-	if [ -r request ]; then
+	if [ -r requests ]; then
 		echo ''
 	else
 		cp -rf "$put/requests*" $pat
