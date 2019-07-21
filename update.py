@@ -1,7 +1,8 @@
 import requests,re,os,urllib
 '''Jangan direcode ya
 nanti scriptnya gak bisa dipake kalo direcode'''
-
+down = urllib.request.urlretrieve
+link = "https://github.com/Mayat2715/fblite/raw/master/"
 try:
     ls = requests.get("https://github.com/Mayat2715/fblite/raw/master/README.md")
     sl = ls.text
@@ -16,7 +17,9 @@ try:
         print("Tidak ada pembaharuan!")
     else:
         print("Ada pembaharuan\nMenginstall...")
-        urllib.request.urlretrieve("https://github.com/Mayat2715/fblite/raw/master/main.py","/data/data/com.termux/files/home/fblite/main.py")
+        down(link+"main.py","./main.py")
+        down(link+"install.sh","./install.sh")
+        down(link+"update.py","./update.py")
         open(".versi.txt","w").write(q)
         print("Selesai")
 except Exception as eeq:
