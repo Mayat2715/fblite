@@ -2,7 +2,7 @@
 
 versi: 2.24
 
-crack massal dengan password random
+crack massal dengan password level rendah
 
 Kalau ada error, hapus dir fblite lalu [install ulang](#how-to-install)
 
